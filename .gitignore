@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 环境变量与隐私
+.env
+.env.local
+
+# 占卜历史(本地数据,可选保留)
+history.json
+
+# 系统/编辑器
+.DS_Store
+.idea/
+.vscode/
